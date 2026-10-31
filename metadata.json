@@ -1,0 +1,6 @@
+{
+  "name": "Apex Mechanics & Performance",
+  "description": "Precision Engineering. Trusted Local Care. Modern landing page for Woolloongabba independent auto repair and performance workshop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
